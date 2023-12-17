@@ -1,0 +1,2 @@
+# youraifeed
+YourAIfeed is an open-source AI prompting tool for modern world to discover, create and store creative prompts
