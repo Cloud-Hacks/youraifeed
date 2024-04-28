@@ -28,7 +28,7 @@ const Nav = () => {
           height={30}
           className='object-contain'
         />
-        <p className='logo_text'>YourAIfeed</p>
+        <p className='logo_text'>Promptfeed</p>
       </Link>
 
       {/* Desktop Navigation */}

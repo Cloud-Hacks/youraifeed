@@ -8,7 +8,7 @@ const Home = () => (
       <span className='blue_gradient text-center'> AI-Powered Prompts</span>
     </h1>
     <p className='desc text-center'>
-      YourAIfeed is an open-source AI prompting tool for modern world to
+      Promptfeed is an open-source AI prompting tool for modern world to
       discover, create and store creative prompts
     </p>
 

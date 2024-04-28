@@ -4,7 +4,7 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "YourAIfeed",
+  title: "Promptfeed",
   description: "Discover & Store Your AI Prompts",
 };
 
