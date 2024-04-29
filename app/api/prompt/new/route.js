@@ -10,7 +10,7 @@ const model = genAI.getGenerativeModel({ model: "gemini-pro"});
 export const POST = async (request) => {
   const { userId, prompt, tag } = await request.json();
 
-  const aiResult = await model.generateContent('Describe "${prompt}" in 3 sentences briefly');
+  const aiResult = await model.generateContent(`Describe "${prompt}" in 3 sentences briefly`);
   const response = await aiResult.response;
   const text = response.text();
 
